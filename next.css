@@ -1,0 +1,229 @@
+{
+    Padding:0;
+    margin:0;
+}
+.container{
+    text-align: right;
+    color: rgb(249, 243, 243);
+    font-size:x-large;
+    padding:10000xl;
+    border-radius:5px;
+    
+
+}
+.navbar{
+
+    background-color:black;
+    padding: 5px;
+    overflow: hidden;
+    background-image: url(GAwl.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+.navbar a{
+    padding: 2px;
+    text-align: center;
+    color:#f3f6f7;
+    background-color:black;
+    overflow: hidden;
+    text-decoration: none;
+    display:inline-block;
+}
+a:hover{
+    background-color:black;
+    color:#40d429;
+
+}
+.bcontainer{
+    text-align: center;
+    background-color:black;
+    padding: 2px;
+    color: white;
+    background-image: url(GAwl.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mid-container{
+    text-align: center;
+    background-color:black;
+    padding: 2px;
+    color: white;
+    background-image: url(GAwl.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mid-container:hover{
+    background-color:black;
+    color: white;
+
+}
+h1{
+    font-size:6em;
+    border:3px solid #011515;
+    border-width:3px;
+
+}
+h1:hover{
+
+    color: #40d429;
+}
+h2:hover{
+    color: #40d429;
+}
+p{
+    font-size:13px;
+    color: white;
+    font-size: 1em;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding:15px;
+}
+p:hover{
+    color:#40d429;
+}
+h3{
+    font-size:4em;
+    color:#edefec;
+    padding: 10px;
+    
+
+}
+h3:hover{
+    color: #3fd328;
+}
+.library{
+    border: 2px solid #024950;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #000506;
+    background-image: url(Curadoria\ de\ GIFs\ Legais\ e\ Divertidas\ para\ mandar\ para\ amigos\ e\ família.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.library:hover{
+    background-color:black;
+    
+}
+.box-library{
+    padding:20px;
+    color: rgb(224, 219, 219);
+    font-weight: 600;
+}
+.box-library:hover{
+    color:#f9fbf9;
+}
+.game{
+    padding: 3px;
+    width:600px;
+}
+.body{
+    background-color: #40d429;
+}
+.A{
+    background-image: url(red\ dead\ redemption\ 2\ draw\ GIF\ by\ Rockstar\ Games\ -\ Find\ &\ Share\ on\ GIPHY.gif);
+    background-size: contain;
+}
+.B{
+    background-image: url(-\ Find\ &\ Share\ on\ GIPHY.gif);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.view-details{
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 16px;
+}
+.view-details:hover{
+    background-color:#40d429;
+    color:white;
+}
+.download{
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 16px;
+}
+.download:hover{
+    background-color:#40d429;
+    color:white;
+}
+.C{
+    background-image: url(whats\ up\ yes\ GIF\ by\ Apex\ Legends\ -\ Find\ &\ Share\ on\ GIPHY.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.D{
+    background-image: url(download.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.E{
+    background-image: url(Elden\ Ring\ Malenia\ GIF\ -\ Elden\ Ring\ Malenia\ Radahn\ -\ Discover\ &\ Share\ GIFs.gif);
+    background-size:contain ;
+}
+.F{
+    background-image: url(final.gif);
+    background-size:cover;
+}
+.G{
+    background-image: url(minecraft.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.PRO{
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 16px;
+
+}
+.PRO:hover{
+    background-color:#40d429;
+    color:white;
+}
+.back{
+    text-align: center;
+    background-color: #000607;
+}
+.footer{
+    background-image: url(GAwl.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding :3px;
+
+}
+
+.fool{
+    color:rgb(249, 245, 245);
+    text-align: left;
+    font-size: 1em;
+    font-weight: 400;
+    padding: 2px;
+    cursor: pointer;
+}
+.details{
+    text-align: left;
+    color: rgb(249, 243, 243);
+    font-size: 1em;
+    font-weight: 400;
+    padding:5px;
+    cursor: pointer;
+}
+.dom{
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 2em;
+    
+
+}
+.dom:hover,.details:hover,.fool:hover{
+    background-color: black;
+    color: #40d429;
+
+}
+
+
+

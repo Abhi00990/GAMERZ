@@ -1,0 +1,317 @@
+{
+    margin:0;
+    padding:0;
+}
+.login{
+    padding: 1px;
+}
+.container{
+    text-align: right;
+    color: rgb(249, 243, 243);
+    font-size:x-large;
+    padding:10000xl;
+    border-radius:5px;
+    
+
+}
+.image{
+    padding: 23px;
+    background-image: url(GAwl.gif);
+    background-size: contain;
+}
+
+.navbar{
+
+    background-color:black;
+    padding: 5px;
+    overflow: hidden;
+    background-image: url(GAwl.gif);
+    
+
+}
+.navbar a{
+    padding: 2px;
+    text-align: center;
+    color:#f3f6f7;
+    background-color:black;
+    overflow: hidden;
+    text-decoration: none;
+    display:inline-block;
+}
+a:hover{
+    background-color:black;
+    color:#40d429;
+
+
+}
+h6{
+    text-align: right;
+    background-color: black;
+    color:white;
+    padding: 4px;
+    font-size: small;
+    border-radius:5px;
+    display:block;
+}
+h6:hover{
+    background-color: rgb(250, 246, 246);
+    color: #003135;
+}
+.bcontainer{
+        text-align: center;
+        background-color:black;
+        padding: 2px;
+        color: white;
+}
+h1{
+    font-size:6em;
+    color:#40d429;
+}
+p{
+    font-size:13px;
+}
+p:hover{
+    color: #40d429;
+}
+.image{
+    padding: 19px;
+    border-radius:8px;
+}
+.search{
+    padding: 10px;
+    text-align:right;
+    font-size: 1px;
+    background-color: #000c0c;
+
+}
+.input:hover{
+    background-color:rgb(248, 251, 248);
+    color: rgb(18, 177, 31);
+    border-radius: 1px;
+}
+.input{
+    border-radius: 5px;
+}
+.button{
+    padding:1px;
+    font-size:13px;
+    display: inline;
+}
+.button:hover{
+    background-color:#18b63a;
+    color: white;
+}
+
+h2{
+    text-align:center;
+    color:#40d429;
+    padding: 3px;
+    font-size:60px;
+
+    
+}
+.meow{
+    background-image: url(GAwl.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+.meow{
+    background-color: black;
+    text-align: right;
+    padding:15px;
+    border-width:auto;
+    border-radius: 7px;
+}
+.meow:hover{
+    color: #3f9731;
+}
+h5{
+    color:rgb(8, 0, 0);
+    font-size: 2em;
+    background-color:white;
+    padding: 5px;
+}
+h3{
+    color:#40d429;
+    font-size: 3em;
+    background-color:white;
+    padding: 5px;
+    text-align:center;
+}
+h3:hover{
+    color: #40d429;
+}
+p{
+    text-align: right;
+    padding: 2px;
+    color: white;
+}
+.omg{
+    border-radius: 5px;
+    background-image:url(GTR_cinemagraph.gif) ;
+    width: 1236px;
+    padding: 4px;
+}
+h4{
+    font-size: 30px;
+}
+.midpic{
+    padding: 90px;
+
+}
+.top{
+    text-align: center;
+    background-image: url(GAwl.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.description{
+    color: rgb(250, 247, 247);
+    text-align:left;
+    font-size: 18px;
+    font-style:normal;
+    text-transform: uppercase;
+    background-image: url(GAwl.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.lower-container{
+    padding: 3px;
+    border-radius: 3px solid white;
+    gap: 5px;
+    
+}
+.box{
+    padding-left: 250px;
+    border: 2px solid whitesmoke;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    box-shadow: 2px black;
+    text-align:right;
+}
+.box:hover{
+    background-color: whitesmoke;
+    color:#40d429;
+}
+.imgho{
+    padding-left: 300px;
+}
+.next{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    text-align: center;
+
+}
+.nextpage{
+    color: white;
+    text-decoration: none;
+    
+}
+.nextpage:hover{
+    background-color: white;
+    color: black;
+}
+.feature{
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+}
+.feature:hover{
+    background-color: white;
+    color: black;
+}
+.ul{
+    text-align:center;
+}
+.popimg{
+    padding:30px;
+    text-align: left;
+}
+.paragraph{
+    border:1.5px #e8e9e9 solid;
+    border-radius:20px;
+    box-shadow:1000px rgb(242, 238, 238);
+    background-color: #000d0e;
+    color: white;
+    cursor: pointer;
+    padding: 20px;
+    border:10px solid black;
+
+}
+.paragraph:hover{
+    background-color:black;
+    color: rgb(25, 165, 32);
+}
+.true{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.true:hover{
+
+    background-color: whitesmoke;
+    color:#40d429;
+}
+.pathway{
+    text-align: center;
+    background-color:#f9fbfb;
+
+}
+.BLAW{
+    text-align: center;
+}
+.BLAW:hover{
+    color: #40d429;
+}
+.to-library{
+    font-size:1em;
+    border-radius: 2px;
+    padding:6px;
+    background-color:black;
+    color: white;
+    border-radius: 5px;
+
+}
+.to-library:hover{
+    background-color: #40d429;
+    color: white;
+}
+.footer{
+    background-image: url(GAwl.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding :3px;
+
+}
+
+.fool{
+    color:rgb(249, 245, 245);
+    text-align: left;
+    font-size: 1em;
+    font-weight: 400;
+    padding: 2px;
+    cursor: pointer;
+}
+.details{
+    text-align: left;
+    color: rgb(249, 243, 243);
+    font-size: 1em;
+    font-weight: 400;
+    padding:5px;
+    cursor: pointer;
+}
+.dom{
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    
+
+}
+.dom:hover,.details:hover,.fool:hover{
+    background-color: black;
+    color: #40d429;
+
+}
